@@ -12,7 +12,7 @@
     "aws-sdk": "2.5.5",
     "bluebird": "3.4.1",
     "body-parser": "~1.15.1",
-    "debug": "~2.2.0",
+    "debug": "~4.1.1",
     "ejs": "^2.5.1",
     "express": "~4.13.4",
     "filepicker-js": "2.4.17",
